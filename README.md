@@ -104,7 +104,7 @@ seems like I have to have a gap before the next header.
 
 
 ## Week 2 Cloud Assignment
-
+### Service Model Pros and Cons
 <br>
 <table>
   <caption>Service Models Pros and Cons</caption>
@@ -179,3 +179,15 @@ seems like I have to have a gap before the next header.
   <th>2. AWS Trating</th>
 </tr>
 </table>
+<br>
+
+### Three different solutions for managing state of services in the cloud
+
+- The service is ***stateful***: The history maintained in the service instance.
+- The service is ***stateless***: The history maintained in the client.
+- The service is ***stateless***: The history persists outside the service, in the database.
+
+### Application that keeps data of a "count."
+<p>
+  I'm not sure how to answer this as the two examples in the book are the same, to me, and the only thing is if it is one client or two.  Both clients do the same thing for each variant.
+</p>
