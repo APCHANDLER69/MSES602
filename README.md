@@ -104,3 +104,53 @@ seems like I have to have a gap before the next header.
 
 
 ## Week 2 Cloud Assignment
+
+<br>
+<table>
+  <caption>Service Models Pros and Cons</caption>
+  <tr>
+    <th></th>  
+    <th>Pros</th>
+    <th>Cons</th>
+  </tr>
+  <tr>
+    <th>Information As A Service</th>
+    <td>
+      <ul>
+        <li>“Pay only for the amount you consume.”2</li>
+        <li>Stop guessing server capacity. 2</li>
+        <li>“Data center investment based on forecast.”2</li>
+        <li>“Scaling on demand.”2</li>
+        <li>“Provides provision processing, storage, networks, and other fundamental computing resources, that the consumer is able to deploy and run arbitrary software.”1</li>
+        <li>Consumer “has control over operating systems, storage, and deployed systems.”1</li>
+        <li>Consumer “possibly limited control of select networking components (e.g. host firewalls).”1</li>
+        <li>Solution are, “flexible, can change more quickly, easily, and cost-effectively than hardware solutions.”2</li>
+        <li>“More control over IT resources.”2</li>
+      </ul>
+  </td>
+    <td>
+      <ul>
+        <li>“Consumer does not manage or control the underlying cloud infrastructure.”1</li>
+      </ul>
+    </td>
+  </tr>
+ <tr>
+    <th>Platform As A Service</th>
+    <td>
+      <ul>
+        <li>“Pay only for the amount you consume.”2</li>
+        <li>Stop guessing server capacity. 2</li>
+        <li>“Data center investment based on forecast.”2</li>
+        <li>“Scaling on demand.”2</li>
+        <li>“Deploy onto the cloud infrastructure consumer-created or acquired systems created using programming languages, libraries, services, and tools supported by the provider.”1/li>
+        <li>“Has control over the deployed systems and possibly configuration settings for the system-hosting environment.”1</li>        
+      </ul>
+  </td>
+    <td>
+      <ul>
+        <li>“Consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage.”1</li>
+        <li>Can be challenging moving from one vendor to another.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
