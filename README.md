@@ -118,20 +118,20 @@ seems like I have to have a gap before the next header.
     <th>Information As A Service</th>
     <td>
       <ul>
-        <li>“Pay only for the amount you consume.”2</li>
-        <li>Stop guessing server capacity. 2</li>
-        <li>“Data center investment based on forecast.”2</li>
-        <li>“Scaling on demand.”2</li>
-        <li>“Provides provision processing, storage, networks, and other fundamental computing resources, that the consumer is able to deploy and run arbitrary software.”1</li>
-        <li>Consumer “has control over operating systems, storage, and deployed systems.”1</li>
-        <li>Consumer “possibly limited control of select networking components (e.g. host firewalls).”1</li>
-        <li>Solution are, “flexible, can change more quickly, easily, and cost-effectively than hardware solutions.”2</li>
-        <li>“More control over IT resources.”2</li>
+        <li>“Pay only for the amount you consume.”<sup>2</sup></li>
+        <li>Stop guessing server capacity.<sup>2</sup></li>
+        <li>“Data center investment based on forecast.”<sup>2</sup></li>
+        <li>“Scaling on demand.”<sup>2</sup></li>
+        <li>“Provides provision processing, storage, networks, and other fundamental computing resources, that the consumer is able to deploy and run arbitrary software.”<sup>1</sup></li>
+        <li>Consumer “has control over operating systems, storage, and deployed systems.”<sup>1</sup></li>
+        <li>Consumer “possibly limited control of select networking components (e.g. host firewalls).”<sup>1</sup></li>
+        <li>Solution are, “flexible, can change more quickly, easily, and cost-effectively than hardware solutions.”<sup>2</sup></li>
+        <li>“More control over IT resources.”<sup>2</sup></li>
       </ul>
   </td>
     <td>
       <ul>
-        <li>“Consumer does not manage or control the underlying cloud infrastructure.”1</li>
+        <li>“Consumer does not manage or control the underlying cloud infrastructure.”<sup>1</sup></li>
       </ul>
     </td>
   </tr>
@@ -139,17 +139,17 @@ seems like I have to have a gap before the next header.
     <th>Platform As A Service</th>
     <td>
       <ul>
-        <li>“Pay only for the amount you consume.”2</li>
-        <li>Stop guessing server capacity. 2</li>
-        <li>“Data center investment based on forecast.”2</li>
-        <li>“Scaling on demand.”2</li>
-        <li>“Deploy onto the cloud infrastructure consumer-created or acquired systems created using programming languages, libraries, services, and tools supported by the provider.”1</li>
-        <li>“Has control over the deployed systems and possibly configuration settings for the system-hosting environment.”1</li>        
+        <li>“Pay only for the amount you consume.”<sup>2</sup></li>
+        <li>Stop guessing server capacity.<sup>2</sup></li>
+        <li>“Data center investment based on forecast.”<sup>2</sup></li>
+        <li>“Scaling on demand.”<sup>2</sup></li>
+        <li>“Deploy onto the cloud infrastructure consumer-created or acquired systems created using programming languages, libraries, services, and tools supported by the provider.”<sup>1</sup></li>
+        <li>“Has control over the deployed systems and possibly configuration settings for the system-hosting environment.”<sup>1</sup></li>        
       </ul>
   </td>
     <td>
       <ul>
-        <li>“Consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage.”1</li>
+        <li>“Consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage.”<sup>1</sup></li>
         <li>Can be challenging moving from one vendor to another.</li>
       </ul>
     </td>
@@ -158,19 +158,19 @@ seems like I have to have a gap before the next header.
     <th>Software As A Service</th>
     <td>
       <ul>
-        <li>“Pay only for the amount you consume.”2/li>
-        <li>“Data center investment based on forecast.”2</li>
-        <li>Stop guessing server capacity. 2</li>
-        <li>“Scaling on demand.”2</li>
-        <li>“Allows the consumer to user the provider’s system running on a cloud infrastructure.”1</li>
-        <li>“Allows clients to access system from various devices through thin client interface, such as a web browser, or a program interface.”1</li> 
-        <li>Manages, “user specific system configuration settings.”1</li>
+        <li>“Pay only for the amount you consume.”<sup>2</sup></li>
+        <li>“Data center investment based on forecast.”<sup>2</sup></li>
+        <li>Stop guessing server capacity.<sup>2</sup></li>
+        <li>“Scaling on demand.”<sup>2</sup></li>
+        <li>“Allows the consumer to user the provider’s system running on a cloud infrastructure.”<sup>1</sup></li>
+        <li>“Allows clients to access system from various devices through thin client interface, such as a web browser, or a program interface.”<sup>1</sup></li> 
+        <li>Manages, “user specific system configuration settings.”<sup>1</sup></li>
       </ul>
   </td>
     <td>
       <ul>
-        <li>“The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual system capabilities. ”1</li>
-        <li>“Less control over IT resources.”2</li>
+        <li>“The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual system capabilities. ”<sup>1</sup></li>
+        <li>“Less control over IT resources.”<sup>2</sup></li>
         <li>Can have challenges with integrations.</li>
       </ul>
     </td>
