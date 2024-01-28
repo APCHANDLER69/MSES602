@@ -108,6 +108,7 @@ seems like I have to have a gap before the next header.
 <br>
 <table>
   <caption>Service Models Pros and Cons</caption>
+  <br>
   <tr>
     <th></th>  
     <th>Pros</th>
@@ -142,7 +143,7 @@ seems like I have to have a gap before the next header.
         <li>Stop guessing server capacity. 2</li>
         <li>“Data center investment based on forecast.”2</li>
         <li>“Scaling on demand.”2</li>
-        <li>“Deploy onto the cloud infrastructure consumer-created or acquired systems created using programming languages, libraries, services, and tools supported by the provider.”1/li>
+        <li>“Deploy onto the cloud infrastructure consumer-created or acquired systems created using programming languages, libraries, services, and tools supported by the provider.”1</li>
         <li>“Has control over the deployed systems and possibly configuration settings for the system-hosting environment.”1</li>        
       </ul>
   </td>
@@ -153,4 +154,28 @@ seems like I have to have a gap before the next header.
       </ul>
     </td>
   </tr>
+<tr>
+    <th>Software As A Service</th>
+    <td>
+      <ul>
+        <li>“Pay only for the amount you consume.”2/li>
+        <li>“Data center investment based on forecast.”2</li>
+        <li>Stop guessing server capacity. 2</li>
+        <li>“Scaling on demand.”2</li>
+        <li>“Allows the consumer to user the provider’s system running on a cloud infrastructure.”1</li>
+        <li>“Allows clients to access system from various devices through thin client interface, such as a web browser, or a program interface.”1</li> 
+        <li>Manages, “user specific system configuration settings.”1</li>
+      </ul>
+  </td>
+    <td>
+      <ul>
+        <li>“The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual system capabilities. ”1</li>
+        <li>“Less control over IT resources.”2</li>
+        <li>Can have challenges with integrations.</li>
+      </ul>
+    </td>
+  </tr>
+<tr><th>1.	Bass, L. and Klein, J., (2022). Deployment and operations for software engineers: A DevOps engineering text. ISBN: 9798801454825</th>
+  <th>2. AWS Trating</th>
+</tr>
 </table>
