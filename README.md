@@ -1,2 +1,3 @@
 # MSES602
 MSES 602 Course
+Week 6
